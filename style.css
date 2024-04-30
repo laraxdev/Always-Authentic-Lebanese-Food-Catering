@@ -1,0 +1,72 @@
+body {
+  font-family: "DM Sans", sans-serif;
+  background-color: #f9f7f4;
+}
+
+/* herobanner */
+#herotitle {
+  font-family: "Croissant One", serif;
+  color: #f7df8dbf;
+}
+
+#herocustom {
+  font-family: "DM Sans", sans-serif;
+  background-color: #801517;
+  color: #f4f1ed;
+}
+
+button {
+  font-family: "DM Sans", sans-serif;
+}
+
+/* navigation menu */
+
+#navcustom {
+  color: #801517;
+  background-color: #f4f1ed;
+}
+
+/* testimony style*/
+#testimony {
+  color: #801517;
+  font-family: "DM Sans", sans-serif;
+  background-color: #f4f1ed;
+}
+.profile-img {
+  height: 150px;
+  border-radius: 50%;
+}
+
+/* feature style */
+
+#featurecustom {
+  color: #801517;
+  font-family: "DM Sans", sans-serif;
+  background-color: #f4f1ed;
+}
+
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+  background-color: #f7df8dbf;
+}
+svg#icon {
+  color: #801517;
+}
+
+/* gallery style */
+#gallerycaption {
+  font-family: "DM Sans", sans-serif;
+  color: #f4f1ed;
+}
+
+/* footer style */
+#footercustom {
+  font-family: "DM Sans", sans-serif;
+  background-color: #801517;
+  color: #f7df8dbf;
+}
+svg#socialicon {
+  color: #f7df8dbf;
+}
